@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-with-mosh/static/css/main.7a56b394.css",
+    "main.js": "/react-with-mosh/static/js/main.91745e44.js",
+    "static/js/787.3cce997c.chunk.js": "/react-with-mosh/static/js/787.3cce997c.chunk.js",
+    "index.html": "/react-with-mosh/index.html",
+    "main.7a56b394.css.map": "/react-with-mosh/static/css/main.7a56b394.css.map",
+    "main.91745e44.js.map": "/react-with-mosh/static/js/main.91745e44.js.map",
+    "787.3cce997c.chunk.js.map": "/react-with-mosh/static/js/787.3cce997c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a56b394.css",
+    "static/js/main.91745e44.js"
+  ]
+}
